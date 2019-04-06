@@ -8,3 +8,4 @@ It will complete as soon, Because we are transfer the posts of the old blog to i
 
 ## License
 
+The Asrez's Blog is licensed under the [GNU General Public License v3.0](https://github.com/Asrez/Blog/blob/master/LICENSE).
